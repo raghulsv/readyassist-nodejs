@@ -1,0 +1,22 @@
+{
+  "name": "raghul_sv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node app/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghulsv/readyassist-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghulsv/readyassist-nodejs/issues"
+  },
+  "homepage": "https://github.com/raghulsv/readyassist-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
